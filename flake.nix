@@ -6,7 +6,7 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     flake-lib = {
-      url = "github:jgus/flake-lib/v1";
+      url = "github:jgus-org/flake-lib/v1";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
@@ -14,37 +14,37 @@
     # Per-dep sibling flakes, each tracking one PyPI package.
     # Each follows this flake's flake-lib so the lockfile carries a single shared flake-lib node.
     spandrel = {
-      url = "github:jgus/spandrel-flake";
+      url = "github:jgus-org/spandrel-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfyui-frontend-package = {
-      url = "github:jgus/comfyui-frontend-package-flake";
+      url = "github:jgus-org/comfyui-frontend-package-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfyui-workflow-templates = {
-      url = "github:jgus/comfyui-workflow-templates-flake";
+      url = "github:jgus-org/comfyui-workflow-templates-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfyui-embedded-docs = {
-      url = "github:jgus/comfyui-embedded-docs-flake";
+      url = "github:jgus-org/comfyui-embedded-docs-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfy-kitchen = {
-      url = "github:jgus/comfy-kitchen-flake";
+      url = "github:jgus-org/comfy-kitchen-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfy-aimdo = {
-      url = "github:jgus/comfy-aimdo-flake";
+      url = "github:jgus-org/comfy-aimdo-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
@@ -122,7 +122,7 @@
               (reqName: {
                 inherit reqName;
                 pypiName = reqName;
-                flakeRepo = "jgus/${reqName}-flake";
+                flakeRepo = "jgus-org/${reqName}-flake";
                 mode = "exact";
               })
               [
