@@ -1,135 +1,5 @@
 {
   "nodes": {
-    "comfy-aimdo": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1789997671,
-        "narHash": "sha256-3jWllAPp4lY3XBOd6HYohI+mJl+OJP15fjJZmGdtfvA=",
-        "owner": "jgus-org",
-        "repo": "comfy-aimdo-flake",
-        "rev": "7ed0001f836727d310238fdb30327bf3f42a289e",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "comfy-aimdo-flake",
-        "type": "github"
-      }
-    },
-    "comfy-kitchen": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1789998886,
-        "narHash": "sha256-x83mLzM97jPDQ8z8ebYtz0GEAbiRxRmLh/WLiVaEtck=",
-        "owner": "jgus-org",
-        "repo": "comfy-kitchen-flake",
-        "rev": "d9be5cdf7a4f89e3b61b3975c6715ac89f543da7",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "comfy-kitchen-flake",
-        "type": "github"
-      }
-    },
-    "comfyui-embedded-docs": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1789997206,
-        "narHash": "sha256-TsSvxLi3+lWyO0yL2BEJD7zQmGRcJvW0y8Kg5zNSLus=",
-        "owner": "jgus-org",
-        "repo": "comfyui-embedded-docs-flake",
-        "rev": "bf486ac9d34a19c6a63b937f3af271bdc2c7746f",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "comfyui-embedded-docs-flake",
-        "type": "github"
-      }
-    },
-    "comfyui-frontend-package": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1789997781,
-        "narHash": "sha256-YI2GmUK49Kkn3CF+xkzKxajoUHh1pEkpQmNGN6EHZLU=",
-        "owner": "jgus-org",
-        "repo": "comfyui-frontend-package-flake",
-        "rev": "74bcacd261d8818441af8fa1bfee2eaae80fb343",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "comfyui-frontend-package-flake",
-        "type": "github"
-      }
-    },
-    "comfyui-workflow-templates": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1788008121,
-        "narHash": "sha256-MtLwZTL2jvnXoJZ8NYEjfGqaD9+mGUs6UYvp45bPqfc=",
-        "owner": "jgus-org",
-        "repo": "comfyui-workflow-templates-flake",
-        "rev": "f41adbb9c48a0b5f16327c313f32c1915cf92799",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "comfyui-workflow-templates-flake",
-        "type": "github"
-      }
-    },
     "flake-lib": {
       "inputs": {
         "flake-utils": [
@@ -140,11 +10,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790001187,
-        "narHash": "sha256-gCSj8bPklmf/+0qpBhkkK8lEG9eA+0irD70xBSaqX7k=",
+        "lastModified": 1790032213,
+        "narHash": "sha256-Vp3s3pCf2sguhqi8MBeUxhwqd9gSB0U7ejE5iN7ZpHg=",
         "owner": "jgus-org",
         "repo": "flake-lib",
-        "rev": "bca7ae3e38789e9037e9c721bf178a54b7d24cf6",
+        "rev": "f1235e7ee700a7565a7135e19f4e66d5ffe659fa",
         "type": "github"
       },
       "original": {
@@ -190,41 +60,9 @@
     },
     "root": {
       "inputs": {
-        "comfy-aimdo": "comfy-aimdo",
-        "comfy-kitchen": "comfy-kitchen",
-        "comfyui-embedded-docs": "comfyui-embedded-docs",
-        "comfyui-frontend-package": "comfyui-frontend-package",
-        "comfyui-workflow-templates": "comfyui-workflow-templates",
         "flake-lib": "flake-lib",
         "flake-utils": "flake-utils",
-        "nixpkgs": "nixpkgs",
-        "spandrel": "spandrel"
-      }
-    },
-    "spandrel": {
-      "inputs": {
-        "flake-lib": [
-          "flake-lib"
-        ],
-        "flake-utils": [
-          "flake-utils"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1789998701,
-        "narHash": "sha256-Fk+EoAiKOsvHjs0nBEvUdrb9GbDR3CI84eUeuLhvqG8=",
-        "owner": "jgus-org",
-        "repo": "spandrel-flake",
-        "rev": "24f6ee0d63a902752c52ea4d62be75b9f61aa629",
-        "type": "github"
-      },
-      "original": {
-        "owner": "jgus-org",
-        "repo": "spandrel-flake",
-        "type": "github"
+        "nixpkgs": "nixpkgs"
       }
     },
     "systems": {
