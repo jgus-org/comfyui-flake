@@ -1,9 +1,9 @@
 # Auto-managed by `nix run .#update-version`. Manual edits will be overwritten by the next bump.
 {
-  version = "0.37.0";
-  sourceRev = "73c9bad4d21e7addbe1d13bc92eee0f1431b017d";
-  sourceHash = "sha256-hfpoQsu8xzKHCy2Qqw2BMGsorwizJEuhKXWjUUJzTHs=";
-  requirementsHash = "9ecd1541bb995949c89733cea34c3b870800fad92db43d668c1b08cacc190920";
-  wheelManifestHash = "9f9c444f8461dd1a757234a4d04009d0d29ab140c60f6e8a3cfc7491527d320f";
+  version = "0.35.0";
+  sourceRev = "40c4fcdf513a4523e39d54a9d391908af8df8171";
+  sourceHash = "sha256-ffT9euBDsxpmq4wzd9R2QUcCgI/YnfQOsvC5HuAekUM=";
+  requirementsHash = "307b885a1b0a257a9aa9a0e1a67cfa57883fcf9b887c2b087efa8b0171d30770";
+  wheelManifestHash = "1de628ebf86695cbb789b75b7159eeba7e042c31aafde90e03c32a67201d6b0e";
   artifactFingerprint = "20d5e9e6bb1521132f2f40685802add08235e96141f4a9b2ee9181c4e35ec60f";
 }
