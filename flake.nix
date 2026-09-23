@@ -27,11 +27,6 @@
         owner = "comfyanonymous";
         repo = "ComfyUI";
       };
-      wheelsFileFor = pythonVersion: ./. + "/wheels-${pythonVersion}.json";
-      vendoredPythonVersions = builtins.filter (
-        pythonVersion: builtins.pathExists (wheelsFileFor pythonVersion)
-      ) flake-lib.lib.pythonEnvironments.pythonVersions;
-
       overlay =
         final: _prev:
         let
@@ -43,13 +38,15 @@
           };
           python = final.python3;
           wheelhouse =
-            if builtins.elem python.pythonVersion vendoredPythonVersions then
-              (flake-lib.lib.mkWheelhouse {
-                pkgs = final;
-                wheels = wheelsFileFor python.pythonVersion;
-              }).wheelhouse
-            else
-              throw "comfyui: no vendored wheelhouse for CPython ${python.pythonVersion} (vendored: ${toString vendoredPythonVersions})";
+            (flake-lib.lib.mkWheelhouse {
+              pkgs = final;
+              wheels =
+                (flake-lib.lib.wheelhouseArtifactPaths {
+                  root = ./.;
+                  pythonVersion = python.pythonVersion;
+                  system = final.stdenv.hostPlatform.system;
+                }).wheelManifest;
+            }).wheelhouse;
         in
         {
           # Top-level ComfyUI derivation: stdenv.mkDerivation with a baked python env + wrapper, kapowarr-style. Consumers get a `comfyui` binary from `pkgs.comfyui`; no withPackages dance required at the consumer level.
@@ -62,7 +59,10 @@
           comfyui-web-model-installer = final.callPackage ./pkgs/web-model-installer { };
         };
     in
-    flake-utils.lib.eachDefaultSystem (
+    flake-utils.lib.eachSystem [
+      "x86_64-linux"
+      "aarch64-linux"
+    ] (
       system:
       let
         pkgs = import nixpkgs {
@@ -73,6 +73,10 @@
         python = pkgs.python3;
         pythonWheelhouse = flake-lib.lib.mkPythonWheelhouse {
           inherit pkgs;
+          systems = [
+            "x86_64-linux"
+            "aarch64-linux"
+          ];
           sources = [
             {
               kind = "source-file";
