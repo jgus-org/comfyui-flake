@@ -137,11 +137,11 @@
   },
   {
     "name": "comfy-aimdo",
-    "version": "0.5.5",
-    "filename": "comfy_aimdo-0.5.5-cp39-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
-    "url": "https://files.pythonhosted.org/packages/8c/53/751aae9e7635b3921647579fdca2d7f29c5bc3e8081743fef9dea1fdf36d/comfy_aimdo-0.5.5-cp39-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
-    "sha256": "22b66419f9f1887fd9fb49f0e5ff9a88b7a8c38f6b94729e5c2e8bf936ff2d70",
-    "size": 659352
+    "version": "0.5.3",
+    "filename": "comfy_aimdo-0.5.3-cp39-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+    "url": "https://files.pythonhosted.org/packages/96/5a/f38fd0c29a75daf40e62ee7b78b4889a622f12666e7e87e847eab7b8979f/comfy_aimdo-0.5.3-cp39-abi3-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+    "sha256": "d87776cbe59e9bc8ad280a60b108d4bd2ba40af408ba2e5f5c04ad401cf35571",
+    "size": 658882
   },
   {
     "name": "comfy-angle",
@@ -153,19 +153,19 @@
   },
   {
     "name": "comfy-kitchen",
-    "version": "0.2.35",
-    "filename": "comfy_kitchen-0.2.35-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
-    "url": "https://files.pythonhosted.org/packages/45/9f/0495991518293be6ed02839516ff5140f76dc414d007c78f5e9dcf393038/comfy_kitchen-0.2.35-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
-    "sha256": "33566331e23aa69784bb3730e218241efdca9410937f0a1f51e712818088ec05",
-    "size": 26784220
+    "version": "0.2.34",
+    "filename": "comfy_kitchen-0.2.34-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+    "url": "https://files.pythonhosted.org/packages/eb/52/f48e3818f87d2bfab4f04a6461b0b4a0d6b4d0179a6825bd4270d300c05d/comfy_kitchen-0.2.34-cp312-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+    "sha256": "cb393060a09ac94c2142ae5a99498806d76e13a29671d078a04882f139b2f5a6",
+    "size": 25656116
   },
   {
     "name": "comfyui-embedded-docs",
-    "version": "0.5.12",
-    "filename": "comfyui_embedded_docs-0.5.12-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/ba/13/b57fb0de3eb1bcef0b6e26444ab357a8d6a18d859d58245c4a6307ca82e3/comfyui_embedded_docs-0.5.12-py3-none-any.whl",
-    "sha256": "90429d8d17ea5d85f9de00bcc25cd4e2bc614aa3d6c03ccebf32aec65b107a80",
-    "size": 19532108
+    "version": "0.5.11",
+    "filename": "comfyui_embedded_docs-0.5.11-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/63/0f/f30966d7610571f0c1cb1034d4489b91db8afc5399fc1a4d0b8520689f6f/comfyui_embedded_docs-0.5.11-py3-none-any.whl",
+    "sha256": "0ab3e96253676d05caf84d607b815c43271e50302f3c51ce363cae5479aa697f",
+    "size": 17765577
   },
   {
     "name": "comfyui-frontend-package",
@@ -177,27 +177,27 @@
   },
   {
     "name": "comfyui-workflow-templates",
-    "version": "0.11.66",
-    "filename": "comfyui_workflow_templates-0.11.66-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/f3/40/437f91c26e198dfc4bcad70efec1a91d79068dd78ed76fc57130c08b650d/comfyui_workflow_templates-0.11.66-py3-none-any.whl",
-    "sha256": "2af993e84bb5a89e66ba84697540cf215093023c4a0c004ff4cc2be0237a198e",
-    "size": 10878
+    "version": "0.11.62",
+    "filename": "comfyui_workflow_templates-0.11.62-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/a7/61/2395ba981d696579f1d8697daba11ffae64cc634e2cbdfe90a9284077cf8/comfyui_workflow_templates-0.11.62-py3-none-any.whl",
+    "sha256": "f0d0eeb870d6a6fd200d75c94f33eea8ca644f582d75f3a92a51d0e81cf97652",
+    "size": 10856
   },
   {
     "name": "comfyui-workflow-templates-core",
-    "version": "0.3.357",
-    "filename": "comfyui_workflow_templates_core-0.3.357-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/b7/eb/e6236ad859a7db133e02d51f79711626f88863b6f165cba77f3a6b5afa48/comfyui_workflow_templates_core-0.3.357-py3-none-any.whl",
-    "sha256": "fa8daef2665a1d8594bef53a58ffbc47a0788fc3bbd8b68b4a6ad6c62b1b4033",
-    "size": 76627
+    "version": "0.3.350",
+    "filename": "comfyui_workflow_templates_core-0.3.350-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/65/f1/5923ed78dc57fa8c862c3619d7e8bf98101bca28a6e3894f12acbab327ad/comfyui_workflow_templates_core-0.3.350-py3-none-any.whl",
+    "sha256": "39c0e017cd1a463855309305b23bd150804c49d5e449f38433b998fff2a7a405",
+    "size": 75279
   },
   {
     "name": "comfyui-workflow-templates-json",
-    "version": "0.1.92",
-    "filename": "comfyui_workflow_templates_json-0.1.92-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/c7/c6/9fa43666d27e4a33243cd24721e94bf978649a7ea7d8d0b9eb498cc0da3e/comfyui_workflow_templates_json-0.1.92-py3-none-any.whl",
-    "sha256": "680dd90525faeeb41dbcd6724c6006513d607b7c3a418ab173fa850c83dc91b1",
-    "size": 3575217
+    "version": "0.1.85",
+    "filename": "comfyui_workflow_templates_json-0.1.85-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/cd/ce/4f491820157ce2aeb9c9ac40c9cc99164e86ffc860e9f78acb1ce01e6401/comfyui_workflow_templates_json-0.1.85-py3-none-any.whl",
+    "sha256": "0afc1ee68f6e578ac8cf1736f4a2957d2a99bec8a7449344f358229e4e96b4bf",
+    "size": 3500265
   },
   {
     "name": "comfyui-workflow-templates-media-api",
@@ -209,19 +209,11 @@
   },
   {
     "name": "comfyui-workflow-templates-media-assets-01",
-    "version": "0.1.47",
-    "filename": "comfyui_workflow_templates_media_assets_01-0.1.47-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/b2/a5/d091abf1e0e0c81debc29337be3308d3bbbaf477ef223aeee9e46454c264/comfyui_workflow_templates_media_assets_01-0.1.47-py3-none-any.whl",
-    "sha256": "81aff8aa9f911d86d8ba8aecd8c0d580d66809ff42e4a51d680a908fafed883d",
-    "size": 94211472
-  },
-  {
-    "name": "comfyui-workflow-templates-media-assets-02",
-    "version": "0.1.3",
-    "filename": "comfyui_workflow_templates_media_assets_02-0.1.3-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/cf/8e/17af57c9e3cb120e43fc19dff9a34b357c8ae6eb23e08785d7d697afc9d3/comfyui_workflow_templates_media_assets_02-0.1.3-py3-none-any.whl",
-    "sha256": "8592c036f60b4f18075f1773dbe3d391cfc967f7dcf7b4143ec46fc92eb0af7a",
-    "size": 6168456
+    "version": "0.1.46",
+    "filename": "comfyui_workflow_templates_media_assets_01-0.1.46-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/fc/c0/dc38cf10d10f1e5553f1cf0549d6c7fe0f733ba0658a96000a532d49a85c/comfyui_workflow_templates_media_assets_01-0.1.46-py3-none-any.whl",
+    "sha256": "84539a04b8f6d569614f0f26541043d3307bd78bb033f266460b0c411a8e8f5d",
+    "size": 94211474
   },
   {
     "name": "comfyui-workflow-templates-media-image",
