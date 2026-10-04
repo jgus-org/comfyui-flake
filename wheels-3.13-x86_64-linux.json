@@ -81,19 +81,19 @@
   },
   {
     "name": "av",
-    "version": "19.0.0",
-    "filename": "av-19.0.0-cp312-abi3-manylinux_2_28_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/fe/6e/4531007ff65d2ee36883e20546d9c82f9df84b99434846074a4b7c7b72db/av-19.0.0-cp312-abi3-manylinux_2_28_x86_64.whl",
-    "sha256": "9cd9f692c28990ee234ddde69f72725bbff93831ffa6d2492518d4b193dda0c8",
-    "size": 35026656
+    "version": "18.1.0",
+    "filename": "av-18.1.0-cp311-abi3-manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/27/3a/204dbfc3e08eb4cdc6e6ff57be02150bc44523ebdb50182d10025792ebd9/av-18.1.0-cp311-abi3-manylinux_2_28_x86_64.whl",
+    "sha256": "8a032e8d8ebc73dec079364b9b4a6837638a2d106e8472314e685ffbf163e700",
+    "size": 35786210
   },
   {
     "name": "blake3",
-    "version": "1.0.10",
-    "filename": "blake3-1.0.10-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/3f/07/07a3d9d438d59168ff3933f00cb07a407c82dc5d62d9ea681f1298196395/blake3-1.0.10-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "sha256": "701a94238191c104c765a4a46fe7975ba3af8bd8442e59cdfc3b4811c5f677aa",
-    "size": 382499
+    "version": "1.0.9",
+    "filename": "blake3-1.0.9-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/f3/f0/fe7188201a29ee9b042616c786a98afd864d537ca96198e64c3fe4ff13a9/blake3-1.0.9-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "sha256": "66c84dbc2a31eda88b55bbf5c5b711037bf0698eba0fd1faf06bdaf313c39048",
+    "size": 383615
   },
   {
     "name": "certifi",
@@ -121,11 +121,11 @@
   },
   {
     "name": "charset-normalizer",
-    "version": "3.5.2",
-    "filename": "charset_normalizer-3.5.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/4b/85/41d27f234b82e47c167a5f6c0f62501dc0c640585ff4aba79e08a390336a/charset_normalizer-3.5.2-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "sha256": "7218e8f32b0956cfcd048fd42d9d5779809745ca1d86113ca56f66e7ae1549c4",
-    "size": 254660
+    "version": "3.5.1",
+    "filename": "charset_normalizer-3.5.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/fb/af/63240b0c0248c075c2535a1f1bd992821d8251b9f173abc13329661d09e4/charset_normalizer-3.5.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "62b55f6722735a6c472f88361cde6640608773d9443cebdbb51abf436a1fcdd3",
+    "size": 250638
   },
   {
     "name": "click",
@@ -137,11 +137,11 @@
   },
   {
     "name": "comfy-aimdo",
-    "version": "0.5.5",
-    "filename": "comfy_aimdo-0.5.5-cp39-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/5d/18/807dd84d80469c9620928429911b9ff04c699e8b47204423a8804ac3f09d/comfy_aimdo-0.5.5-cp39-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-    "sha256": "7a4dc76831273a2f837f67cf49c9e507e778b19aff17e6ef8a34a6e9694fd86a",
-    "size": 432743
+    "version": "0.4.10",
+    "filename": "comfy_aimdo-0.4.10-cp39-abi3-manylinux2010_x86_64.manylinux2014_x86_64.manylinux_2_12_x86_64.manylinux_2_17_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/3e/63/29035f15a32c1e31723585c452c7416d6c3c00f92469e2a923a35500df49/comfy_aimdo-0.4.10-cp39-abi3-manylinux2010_x86_64.manylinux2014_x86_64.manylinux_2_12_x86_64.manylinux_2_17_x86_64.whl",
+    "sha256": "ffae0519a8c37751e1097e8275a3450a5b8bee9aeb179b5da0c00fcb57a2cc5f",
+    "size": 346776
   },
   {
     "name": "comfy-angle",
@@ -153,51 +153,51 @@
   },
   {
     "name": "comfy-kitchen",
-    "version": "0.2.36",
-    "filename": "comfy_kitchen-0.2.36-cp312-abi3-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/35/99/ccba68f066e5921482a35994419621e22f27a078f5611717521c84ad4935/comfy_kitchen-0.2.36-cp312-abi3-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
-    "sha256": "a333a0f64fb42362b2ab0221fdab3fabddbcc702a44a6d50937dfe8625e62c39",
-    "size": 56317972
+    "version": "0.2.16",
+    "filename": "comfy_kitchen-0.2.16-cp312-abi3-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/3a/a3/1b128a2de98282f034c6b041b7f37d16d89d4d89fbed4de90de54d0cf582/comfy_kitchen-0.2.16-cp312-abi3-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "9dff56495da5a6a4cb4f81bd0ac99dd96e39b3f19f61a6918526e98386e89010",
+    "size": 6962273
   },
   {
     "name": "comfyui-embedded-docs",
-    "version": "0.5.12",
-    "filename": "comfyui_embedded_docs-0.5.12-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/ba/13/b57fb0de3eb1bcef0b6e26444ab357a8d6a18d859d58245c4a6307ca82e3/comfyui_embedded_docs-0.5.12-py3-none-any.whl",
-    "sha256": "90429d8d17ea5d85f9de00bcc25cd4e2bc614aa3d6c03ccebf32aec65b107a80",
-    "size": 19532108
+    "version": "0.5.6",
+    "filename": "comfyui_embedded_docs-0.5.6-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/40/51/d76fd44e8ab9ce8275f76aa301e4e3bc0000adca6b076c51eb1c337c7fbb/comfyui_embedded_docs-0.5.6-py3-none-any.whl",
+    "sha256": "426219f820b2f69fb9d7af1b3f493d868519751ab06cdd792b46cd414658dbca",
+    "size": 15355179
   },
   {
     "name": "comfyui-frontend-package",
-    "version": "1.53.6",
-    "filename": "comfyui_frontend_package-1.53.6-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/60/c6/aab12cefc5c3247d7d1bf3fdb9fb10f8478c21200b1e0b9c02bb89bca655/comfyui_frontend_package-1.53.6-py3-none-any.whl",
-    "sha256": "8b9616452c8bc693a4a77f63d05c8c690e9ef2b279f330d8d957541d69c6c452",
-    "size": 25152605
+    "version": "1.45.20",
+    "filename": "comfyui_frontend_package-1.45.20-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/96/90/3b317d8acabf8f2ac54f3d02bb2e1ffc76631ff886711e30dd031cfba4b7/comfyui_frontend_package-1.45.20-py3-none-any.whl",
+    "sha256": "96c05a609f57726bf0c253faa0d554cee350e1cfab23a39debcf398afec5e9e4",
+    "size": 26646799
   },
   {
     "name": "comfyui-workflow-templates",
-    "version": "0.11.70",
-    "filename": "comfyui_workflow_templates-0.11.70-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/35/1c/e1c22168d202a56be5f8319b7c3eb90a4d7285da9336c674c4fe6c4b246d/comfyui_workflow_templates-0.11.70-py3-none-any.whl",
-    "sha256": "561e4656c73b6f6fe94d2b45d6e85685a9e6ba5fd832a425a5b59ba805ae5b98",
-    "size": 10876
+    "version": "0.11.1",
+    "filename": "comfyui_workflow_templates-0.11.1-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/46/52/a7203fcdf9c3ac81684ca25920c80276dbabe457ab0f1f59183e586404bf/comfyui_workflow_templates-0.11.1-py3-none-any.whl",
+    "sha256": "6bb6d1392ba211fda29d5f20f6343700f0da72b8ae88dcbfc50a819755c6c534",
+    "size": 10672
   },
   {
     "name": "comfyui-workflow-templates-core",
-    "version": "0.3.361",
-    "filename": "comfyui_workflow_templates_core-0.3.361-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/5b/b8/34a7eb93e14de0e530c6fa74f81cd4bf1d8f1f5a50f5d67411cb8e719644/comfyui_workflow_templates_core-0.3.361-py3-none-any.whl",
-    "sha256": "9e819723b2953247f5d9e231938c917028596b95d9ed0a8d0d6357799931368e",
-    "size": 78350
+    "version": "0.3.266",
+    "filename": "comfyui_workflow_templates_core-0.3.266-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/44/3a/0938c3168590bc68d70cbe858a6ab147d2f14a4b473b9479f2c51aaf089b/comfyui_workflow_templates_core-0.3.266-py3-none-any.whl",
+    "sha256": "cf0b34aa15d724abb266947824c5bc4ed9c923921c9c1bb55764030fad6a2d94",
+    "size": 64999
   },
   {
     "name": "comfyui-workflow-templates-json",
-    "version": "0.1.96",
-    "filename": "comfyui_workflow_templates_json-0.1.96-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/62/4f/f123b32e7f5c955d34ef19533b7c17b035be96add221a0b163e54bbae899/comfyui_workflow_templates_json-0.1.96-py3-none-any.whl",
-    "sha256": "1e063d88c03160fe56121a50b3e34cd9b2bc90ee855bee30f3a062f7950b47b5",
-    "size": 3665650
+    "version": "0.1.1",
+    "filename": "comfyui_workflow_templates_json-0.1.1-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/4b/da/8f850674c683c3745d3036279b8344fd71b21e37872798a0927d402735a4/comfyui_workflow_templates_json-0.1.1-py3-none-any.whl",
+    "sha256": "b79bb773a821fd12f310fbee9ec34fa9e78b8387de975dc11f2085671f580c32",
+    "size": 2676148
   },
   {
     "name": "comfyui-workflow-templates-media-api",
@@ -209,19 +209,11 @@
   },
   {
     "name": "comfyui-workflow-templates-media-assets-01",
-    "version": "0.1.48",
-    "filename": "comfyui_workflow_templates_media_assets_01-0.1.48-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/7c/4c/39858b7dd6036fae44e15baf6eb5e55671291d25b9e0931bc0956ce12055/comfyui_workflow_templates_media_assets_01-0.1.48-py3-none-any.whl",
-    "sha256": "7733ed12867e95e6b8b39be20bcc73579c28e97e5a44086ffb977cc2c1c78c43",
-    "size": 94172110
-  },
-  {
-    "name": "comfyui-workflow-templates-media-assets-02",
-    "version": "0.1.6",
-    "filename": "comfyui_workflow_templates_media_assets_02-0.1.6-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/08/b4/789b12a7f15b63f8cf6a3b864f97a771d83168690a12a80093ade9855ebc/comfyui_workflow_templates_media_assets_02-0.1.6-py3-none-any.whl",
-    "sha256": "c618904e5c799306d131115012fc7525aaf3c49b619a9f5120d52b4188cc94a4",
-    "size": 15826445
+    "version": "0.1.0",
+    "filename": "comfyui_workflow_templates_media_assets_01-0.1.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/8c/a9/c699ba441c1b0ec0577001ca714c93ad739d1233b8dd0a39281ff8f7616b/comfyui_workflow_templates_media_assets_01-0.1.0-py3-none-any.whl",
+    "sha256": "b9f34b49d170064fa32823cc29332a66d964a7c9511e14ba454406bf3037d20a",
+    "size": 1786
   },
   {
     "name": "comfyui-workflow-templates-media-image",
@@ -289,11 +281,11 @@
   },
   {
     "name": "filelock",
-    "version": "4.0.7",
-    "filename": "filelock-4.0.7-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/06/cf/1731c0dd182ee35f80a39e63afb3d03056ea0dd561b7498932b10b2e34d9/filelock-4.0.7-py3-none-any.whl",
-    "sha256": "a93c4d93269b339a6af4848342c7e940d0f9928ad95eff64764699e5f1bf8a6a",
-    "size": 109242
+    "version": "4.0.1",
+    "filename": "filelock-4.0.1-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/29/33/af0635ab07fe83b1788a1dbe370ff3e226062495a998335cb18a1cac81aa/filelock-4.0.1-py3-none-any.whl",
+    "sha256": "481a321a27bef441e23c53371c6abc8d7d16e26b97090074ba44f7538a3fd55a",
+    "size": 106219
   },
   {
     "name": "frozenlist",
@@ -321,11 +313,19 @@
   },
   {
     "name": "gitpython",
-    "version": "3.2.0",
-    "filename": "gitpython-3.2.0-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/fa/48/f36d233ce749d1bb880cb5e6f8bb171dc2effabc7435c31da604d831b3ec/gitpython-3.2.0-py3-none-any.whl",
-    "sha256": "bd70c5ec05cd2b797423e7eb312147d2458d3cca92085888fba2213f85905537",
-    "size": 228537
+    "version": "3.1.62",
+    "filename": "gitpython-3.1.62-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/d6/0b/29d7965215f8ef830a7ca1f42997fe13e5693d85e9edb18f938d063ef5f2/gitpython-3.1.62-py3-none-any.whl",
+    "sha256": "7002251225e10e29d2e1f49e6532613fe5d5d9f0b6f1f02997a52b38fe56899e",
+    "size": 222753
+  },
+  {
+    "name": "greenlet",
+    "version": "3.5.6",
+    "filename": "greenlet-3.5.6-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/85/cb/ab0c123c514ed4e94c0dc9ee2e86362633e6b998cfc05de7fc9ac2eb9690/greenlet-3.5.6-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "f98e8215e172f567ce80eeaed9107fb4d32b6c44f26983d9b8334658136a205a",
+    "size": 623779
   },
   {
     "name": "h11",
@@ -377,11 +377,11 @@
   },
   {
     "name": "huggingface-hub",
-    "version": "1.33.0",
-    "filename": "huggingface_hub-1.33.0-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/fc/16/963096d224b80909432dc16561a615fd33d2d13beef3ce4c63fa25e40867/huggingface_hub-1.33.0-py3-none-any.whl",
-    "sha256": "04e434b06e100eddbce9a6e817d72693a7884b10a79bd67ab48080d5c07eb899",
-    "size": 846435
+    "version": "1.32.0",
+    "filename": "huggingface_hub-1.32.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/1b/cf/d98dd561d6d0d7b7d7a64d1563f8aaaa7c235daee41c1c9bcc3da62420ed/huggingface_hub-1.32.0-py3-none-any.whl",
+    "sha256": "b0c7c80561969d9cdacdd55fce67ba9584cca0b9d4ea80957a3a5c1445fac5c8",
+    "size": 842906
   },
   {
     "name": "hyperframe",
@@ -433,11 +433,11 @@
   },
   {
     "name": "kornia-rs",
-    "version": "0.2.0",
-    "filename": "kornia_rs-0.2.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/eb/4c/b7f9a36a6fe174069c9a6f2f6debea49e7c992dcbb8a768a217303ef1b49/kornia_rs-0.2.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "sha256": "f8b71a0c0bc54ba7fc76f184d66a8f600c19754495313d245e8b28e847ef902e",
-    "size": 5340640
+    "version": "0.1.14",
+    "filename": "kornia_rs-0.1.14-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/f2/09/3f78df732325132a3f8fceb0059c1e4736bb48e4fca8acea7d3de93ad15f/kornia_rs-0.1.14-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "sha256": "65ba9214fc10cca816b7f6653f59a2bb74f343dce163adceba10926480d7a2b6",
+    "size": 3694754
   },
   {
     "name": "mako",
@@ -729,11 +729,11 @@
   },
   {
     "name": "pyjwt",
-    "version": "2.15.1",
-    "filename": "pyjwt-2.15.1-py3-none-any.whl",
-    "url": "https://files.pythonhosted.org/packages/50/ca/44de4e75f8aadc457f0634be3b542815078ded46dca30efb960edeecad6e/pyjwt-2.15.1-py3-none-any.whl",
-    "sha256": "42d59d631f7768a1028a64c7ff581a9bf7519804daf91fc5b6c56e30eec5e193",
-    "size": 33860
+    "version": "2.14.0",
+    "filename": "pyjwt-2.14.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/9c/97/672cb32ce0dfea44b740cb7b4f97038463b9cf7c0ead1aacf595572851d6/pyjwt-2.14.0-py3-none-any.whl",
+    "sha256": "ad0cef71c756a56e74863c2919cf0985f72decbcfcb550ee2f422e7c62b5eedc",
+    "size": 32896
   },
   {
     "name": "pynacl",
@@ -785,11 +785,11 @@
   },
   {
     "name": "regex",
-    "version": "2026.9.29",
-    "filename": "regex-2026.9.29-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/9a/8e/c1ed81f55f992f6aa0b699a592a50c1ce9e6d44ff1aee2c14c0537dcef9c/regex-2026.9.29-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "sha256": "d49c18f1ea294cf4adde2e5ac256e98c82ea9d708462ce4bf799dffa7cfe8a2c",
-    "size": 807902
+    "version": "2026.9.10",
+    "filename": "regex-2026.9.10-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/20/3b/000c79c3f9c06b7542225a5d3a7f9a85405da7224b3b9af94a491d07abea/regex-2026.9.10-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "bafa41b0dd63669e5c0f8adf3d24819efeb73c847f492eb011212eb352e69041",
+    "size": 804578
   },
   {
     "name": "requests",
@@ -881,11 +881,11 @@
   },
   {
     "name": "sqlalchemy",
-    "version": "2.1.1",
-    "filename": "sqlalchemy-2.1.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/b0/98/35dd80a408ae2d880f92631eaaff7ae1b1004a3cd8f070f95d9c534380ee/sqlalchemy-2.1.1-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-    "sha256": "abd893deac6b0765f51d87129c5631cc5bc8f784f8bf22a9d3903695c764bccc",
-    "size": 4628607
+    "version": "2.0.54",
+    "filename": "sqlalchemy-2.0.54-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/84/26/bd327a1a6be223e438c98ac8faf299307d83797225a81f3b209607a9fd98/sqlalchemy-2.0.54-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "cad78d04254967bdbcccbed5e631d88fe4868530946ab0929aa45e9032849518",
+    "size": 3417562
   },
   {
     "name": "sympy",
@@ -918,6 +918,14 @@
     "url": "https://files.pythonhosted.org/packages/21/f1/39bd13b21f57d1982b7f3ddf663f01c7266e2957714880744eba9e8c8d11/torch-2.14.0-cp313-cp313-manylinux_2_28_x86_64.whl",
     "sha256": "84bf384779a10c02fc3c6bdbab71a9cb66b0dd93c652d1ed5d6dfc0cb37e5962",
     "size": 554619993
+  },
+  {
+    "name": "torchaudio",
+    "version": "2.11.0",
+    "filename": "torchaudio-2.11.0-cp313-cp313-manylinux_2_28_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/4f/98/be13fe35d9aa5c26381c0e453c828a789d15c007f8f7d08c95341d19974d/torchaudio-2.11.0-cp313-cp313-manylinux_2_28_x86_64.whl",
+    "sha256": "1c1101c1243ef0e4063ec63298977e2d3655c15cf88d9eb0a1bd4fe2db9f47ea",
+    "size": 1771992
   },
   {
     "name": "torchsde",
@@ -1009,11 +1017,11 @@
   },
   {
     "name": "uv",
-    "version": "0.12.21",
-    "filename": "uv-0.12.21-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "url": "https://files.pythonhosted.org/packages/c6/2b/8700206efe193fc279fe32c11ab9a502c8364e7882e3f6f36a00a6cc8af7/uv-0.12.21-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-    "sha256": "0083454d25479f1cd03547c8c98c235b4af92bd07f0e61c3eae5d1cbb0c1834c",
-    "size": 20438857
+    "version": "0.12.18",
+    "filename": "uv-0.12.18-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "url": "https://files.pythonhosted.org/packages/67/67/def11543e7bd3b4219ca29afd66f3accab641324bd2e426cb788083c56c5/uv-0.12.18-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "sha256": "fbe0489871e74ebfb70379a32526c62b9fb615acf13576b9f19bc09a142f62b0",
+    "size": 20450568
   },
   {
     "name": "yarl",
