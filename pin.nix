@@ -3,7 +3,7 @@
   version = "0.35.0";
   sourceRev = "40c4fcdf513a4523e39d54a9d391908af8df8171";
   sourceHash = "sha256-ffT9euBDsxpmq4wzd9R2QUcCgI/YnfQOsvC5HuAekUM=";
-  requirementsHash = "7fda563aedc0db95f40c8e3a5fb60ffb986f5142f582a6794311c20ac03c46af";
-  wheelManifestHash = "bbf74456660d2b43882f6ad995492bdf0991ed903b172127bac29de6ed6e1b5a";
-  artifactFingerprint = "c8445c5983a9a2f2d8d2c536ef663f9befcea1ed2ded57132bf9ddba23b65e16";
+  requirementsHash = "fe86d22164184a58726b4b68c4b8a5daaaa5b67b470119b7e2bbb12fb9872f26";
+  wheelManifestHash = "b04d302bb77529c297d6f881810b65e1f741b39e6e8352234d017330c7c94763";
+  artifactFingerprint = "2d47632fd177d9e272726a181b78b3bc6f1be6329db1613e3d5428e26c68b3f1";
 }
