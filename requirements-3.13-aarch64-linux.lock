@@ -640,50 +640,50 @@ comfy-angle==0.1.1 \
     --hash=sha256:beddd2e3b9a67e55f5afaef4da73e3ac704fd88f0cbe6a6f67ce5718d7c7edeb \
     --hash=sha256:c0af17e17070cf7af5dbd66c51a1b6cca2820c8611e487e7bd398006a1447124
     # via -r requirements.in
-comfy-kitchen==0.2.36 \
-    --hash=sha256:1fe58d9035b2b3d5524f8e344a5c2abcf7b6cc50c1e469238286e20cac45236b \
-    --hash=sha256:42e07e039c813d15a381992481edf26ff404c735f77a273b2561bcc2ef91506a \
-    --hash=sha256:4745794149eba4e6468e934164e2f017b819fc0e605e2342e7e0d9c6d072997c \
-    --hash=sha256:4ca5bfe8ab5adbc45026fe79c5aa35d254f2c87ef34b86d0a3a72a12596d998d \
-    --hash=sha256:514ef9bdeb2f1aa7e95c73ce88586da9c598d1c5d76e329ce253e03ee903cbd7 \
-    --hash=sha256:8dcb25deadf9122123d42eb29d0c83d5a3f9a33cc963bf8b8009e31698b9dec0 \
-    --hash=sha256:a333a0f64fb42362b2ab0221fdab3fabddbcc702a44a6d50937dfe8625e62c39 \
-    --hash=sha256:ac81d9f48049e6a919e2f843fc0f67929a9eec714009b8225a37dfe2050fb072 \
-    --hash=sha256:c5710fb0bc62c320f78cb64ed7fd7027432e4a8f4131921169f5a99f3ed90119 \
-    --hash=sha256:dd0f622512b3386b6936a09b8587b2fc3af0a27489aeea649efb5fe4078a9af0 \
-    --hash=sha256:f4d3d1b24cd923df26948f3c00c8348ed5f04baf7fdf950071626914943c79d2
+comfy-kitchen==0.2.35 \
+    --hash=sha256:0d05380b8dade098c4acecf8fed876a0ae0d14cd8a28934a83ab843d7ceb8e16 \
+    --hash=sha256:17edfa3e09883f36fb475d81302b3467087e1b9399105577c31a3174abc1ded8 \
+    --hash=sha256:1e89547e7feec3eaeb99bd448319cdf32d7361dbce7f7b16278393fb4e20e42d \
+    --hash=sha256:33566331e23aa69784bb3730e218241efdca9410937f0a1f51e712818088ec05 \
+    --hash=sha256:47b38fb0d8fe0b576f559e1c3d0aad85b2fe7de5f723935950a2a9686f838713 \
+    --hash=sha256:9c59e898101d2657f967910acf6abc6f772d76b945da86c5fda5f7d817d1cda1 \
+    --hash=sha256:a03cee84635f039da39d5eed9640ab50d47b80e370717b3bee0e0561300389cc \
+    --hash=sha256:abdda98303c47f334d8ebdad56271caa5622d8517f156906087e4855ade79299 \
+    --hash=sha256:e32102367b8973fb4061b657f72d3154f4909a5955a03b488272ee13a19c7678 \
+    --hash=sha256:eaee40b90b6996c9054ff5fd3cdf524613b759d49099047042c20d9d77276ad8 \
+    --hash=sha256:f95d48638add1a36eed14037820c0f85f0df765321eeb53f0750bef8906abcbe
     # via -r requirements.in
 comfyui-embedded-docs==0.5.12 \
     --hash=sha256:40a6fb008be7cc5a9c0142252bd7bddebd4b0407335de9e779d96b163a1abb42 \
     --hash=sha256:90429d8d17ea5d85f9de00bcc25cd4e2bc614aa3d6c03ccebf32aec65b107a80
     # via -r requirements.in
-comfyui-frontend-package==1.53.6 \
-    --hash=sha256:8b9616452c8bc693a4a77f63d05c8c690e9ef2b279f330d8d957541d69c6c452 \
-    --hash=sha256:edd2c7214360646cd3d2e453012455f4057276d4ce5094d7829383e4fbe93a1a
+comfyui-frontend-package==1.52.7 \
+    --hash=sha256:3aa5624fa5085f8461d31b7eb88a42ed69a0e783a35bec1c2a33b90fc7660950 \
+    --hash=sha256:5cb287d82b618a17598ccae641dd56ade87ca5a44ddc854a77256dbde29ada43
     # via -r requirements.in
-comfyui-workflow-templates==0.11.70 \
-    --hash=sha256:1d62795358de9a45e4746bf6580979347151b385ea3c2452494a6b3db487d8a8 \
-    --hash=sha256:561e4656c73b6f6fe94d2b45d6e85685a9e6ba5fd832a425a5b59ba805ae5b98
+comfyui-workflow-templates==0.11.66 \
+    --hash=sha256:2af993e84bb5a89e66ba84697540cf215093023c4a0c004ff4cc2be0237a198e \
+    --hash=sha256:3d84ef590d2eecc6af0fd94f1da132b7191d5cecb7e5ecdee79aa377e0fcb462
     # via -r requirements.in
-comfyui-workflow-templates-core==0.3.361 \
-    --hash=sha256:6f2185d85958cfd8266b215492edb29099afbd816baf6627042d03953b0b1534 \
-    --hash=sha256:9e819723b2953247f5d9e231938c917028596b95d9ed0a8d0d6357799931368e
+comfyui-workflow-templates-core==0.3.357 \
+    --hash=sha256:0c25b2902425261203bc1f9109a2efbe89a7d4e78a50eea751ba35e7f3beb9fe \
+    --hash=sha256:fa8daef2665a1d8594bef53a58ffbc47a0788fc3bbd8b68b4a6ad6c62b1b4033
     # via comfyui-workflow-templates
-comfyui-workflow-templates-json==0.1.96 \
-    --hash=sha256:1e063d88c03160fe56121a50b3e34cd9b2bc90ee855bee30f3a062f7950b47b5 \
-    --hash=sha256:f31f59d21d8557f5fd589351cca62463aade3ee079d1a051865a92bbcc860f5c
+comfyui-workflow-templates-json==0.1.92 \
+    --hash=sha256:3c7abe7792fb0dd405a4508bf21c69dced6a3a2cba3042c4de6aac9438794fe2 \
+    --hash=sha256:680dd90525faeeb41dbcd6724c6006513d607b7c3a418ab173fa850c83dc91b1
     # via comfyui-workflow-templates
 comfyui-workflow-templates-media-api==0.3.84 \
     --hash=sha256:6bd5c496e368e5e40dd87dfe25f066e24d57f3602888ba3df80013a88d060259 \
     --hash=sha256:c2d6a5999ac39e4f37f47ae231c92557defe5addb2cc6ab5c11410b4d5a2910a
     # via comfyui-workflow-templates
-comfyui-workflow-templates-media-assets-01==0.1.48 \
-    --hash=sha256:7733ed12867e95e6b8b39be20bcc73579c28e97e5a44086ffb977cc2c1c78c43 \
-    --hash=sha256:b12c439f52a8545b0a8e321e8f62d7aa881a4bd8dc9c889c3bbde97b10e7120f
+comfyui-workflow-templates-media-assets-01==0.1.47 \
+    --hash=sha256:47c0145057d138a8b0d63af66fe931c3091825d552e82b38f14096e7d0955052 \
+    --hash=sha256:81aff8aa9f911d86d8ba8aecd8c0d580d66809ff42e4a51d680a908fafed883d
     # via comfyui-workflow-templates
-comfyui-workflow-templates-media-assets-02==0.1.6 \
-    --hash=sha256:0931460dd010b3344571fcc8d385af2fd0d2870741db57d62abb0df14d02e302 \
-    --hash=sha256:c618904e5c799306d131115012fc7525aaf3c49b619a9f5120d52b4188cc94a4
+comfyui-workflow-templates-media-assets-02==0.1.3 \
+    --hash=sha256:56a114b6c6d8168c92a2c5b0ed1c926b4f5a155900af7f81cdc7fd05fd5f9424 \
+    --hash=sha256:8592c036f60b4f18075f1773dbe3d391cfc967f7dcf7b4143ec46fc92eb0af7a
     # via comfyui-workflow-templates
 comfyui-workflow-templates-media-image==0.3.160 \
     --hash=sha256:88dcf749302c6a12f5b803dfb46724b4c8acc31d1117cecff51672d9bd85eb18 \
@@ -2750,6 +2750,36 @@ torch==2.14.1 \
     #   spandrel
     #   torchsde
     #   torchvision
+torchaudio==2.11.0 \
+    --hash=sha256:00e9f71ab9c656f0abdb40c515bd65d4658ab0ad380dee27a2efd7d51dabd3d6 \
+    --hash=sha256:13cff988697ccbad539987599f9dc672f40c417bed67570b365e4e5002bbd096 \
+    --hash=sha256:1424638adb8bb40087bc7b6eb103e8e4fe398210f09076f33b7b5e61501b5d66 \
+    --hash=sha256:1a07ec72fd6f26a588c39b5f029e0130d16bb40bc4221635580bf8fb18fcbc80 \
+    --hash=sha256:1be3767064364ae82705bdf2b15c1e8b41fea82c4cd04d47428a8684b634b6ed \
+    --hash=sha256:1c1101c1243ef0e4063ec63298977e2d3655c15cf88d9eb0a1bd4fe2db9f47ea \
+    --hash=sha256:478110f981e5d40a8d82221732c57a56c85a1d5895fb8fe646e86ee15eded3bd \
+    --hash=sha256:492dd64645e9d0bb843e94f1d9a4d1e31426262ffc594fafecc1697df9df5eb9 \
+    --hash=sha256:5847fe2022b17c6580aeb39c8797a443411cc09edfd9183cd50ac1a3b8ccf97c \
+    --hash=sha256:6503c0bdb29daf2e6281bb70ea2dfe2c3553b782b619eb5d73bdadd8a3f7cecf \
+    --hash=sha256:67f6edac29ed004652c11db5c19d9debb5d835695930574f564efc8bdd061bba \
+    --hash=sha256:6ebb59c694909eccb5d61b7cc199d297692012c43286e36d92983aa7bad7586d \
+    --hash=sha256:73dab4841f94d888bc7c2aed7b5547c643edc974306919fe1adfb65d57cccf4b \
+    --hash=sha256:79fb3cb99169fd41bd9719647261402a164da0d105a4d81f42a3260844ec5e79 \
+    --hash=sha256:7e2da1df4f6fe885c46db350a0dc90a0dff4b54541dff8846faa904d255e2bfe \
+    --hash=sha256:88fb5e29f670a33d9bac6aabb1d2734460cf6e461bde5cdc352826035851b16d \
+    --hash=sha256:986f4df5ed17b003dc52489468601720090e65f964f8bebccf90eb45bba75744 \
+    --hash=sha256:9fe3083c62e035646483a14e180d33561bdc2eed436c9ab1259c137fb7120b4a \
+    --hash=sha256:a1cf1acc883bee9cb906a933572fed6a8a933f86ef34e9ea7d803f72317e8c1b \
+    --hash=sha256:b034d7672f1c415434f48ef17807f2cce47f29e8795338c751d4e596c9fbe8b5 \
+    --hash=sha256:bb59ba4452bbbe95d75ad3ef18df9824955625f36698ce9a5998a4a9f3c1ba1d \
+    --hash=sha256:bc653defca1c16154398517a1adc98d0fb7f1dd08e58ced217558d213c2c6e29 \
+    --hash=sha256:bda09ea630ae7207384fb0f28c35e4f8c0d82dd6eba020b6b335ad0caa9fed49 \
+    --hash=sha256:be7ad472acb16d16e98c005f0219b0db06a47dfe8f7b4d177062e1638f871e3b \
+    --hash=sha256:cc09cd1f6015b8549e7fe255fb1be5346b57e7fee06541d3f3dbb012d8c4715f \
+    --hash=sha256:da2725e250866da42a12934c9a6552f65a18b7187fd7a6221387f0e605fb3b96 \
+    --hash=sha256:e3f9696a9ef1d49acc452159b052370c636406d072e9d8f10895fda87b591ea9 \
+    --hash=sha256:ed404c4399ad7f172c86a47c1b25293d322d1d58e26b10b0456a86cf67d37d84
+    # via -r requirements.in
 torchsde==0.2.6 \
     --hash=sha256:19bf7ff02eec7e8e46ba1cdb4aa0f9db1c51d492524a16975234b467f7fc463b \
     --hash=sha256:81d074d3504f9d190f1694fb526395afbe4608ee43a88adb1262a639e5b4778b
